@@ -1,0 +1,831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: All Signs Options Free\n"
+"POT-Creation-Date: 2024-10-02 11:26+0100\n"
+"PO-Revision-Date: 2024-10-02 11:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Vertim Coders\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;esc_attr__;esc_attr_e;"
+"esc_html_x\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: all-signs-options-free.php\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: .gitignore\n"
+"X-Poedit-SearchPathExcluded-3: changelog.txt\n"
+"X-Poedit-SearchPathExcluded-4: package-lock.json\n"
+"X-Poedit-SearchPathExcluded-5: README.txt\n"
+"X-Poedit-SearchPathExcluded-6: .git\n"
+
+#: all-signs-options-free.php:109
+msgid "Get Premium!"
+msgstr ""
+
+#: all-signs-options-free.php:110
+msgid "Go Docs!"
+msgstr ""
+
+#: all-signs-options-free.php:129
+msgid ""
+"This plugin requires WooCommerce to run. Please install or activate "
+"WooCommerce."
+msgstr ""
+
+#: all-signs-options-free.php:542 all-signs-options-free.php:556
+msgid "Customization Page not found"
+msgstr ""
+
+#: all-signs-options-free.php:543 all-signs-options-free.php:557
+msgid ""
+"To display the configurator on a page without a short code, please select "
+"the page on which it should be displayed. Click"
+msgstr ""
+
+#: all-signs-options-free.php:543 all-signs-options-free.php:557
+msgid "here"
+msgstr ""
+
+#: all-signs-options-free.php:579
+msgid "Welcome to All Signs Options. Let's get you started !!!"
+msgstr ""
+
+#: all-signs-options-free.php:580
+msgid ""
+"To avoid performance problems we recommend at least version 3.4 of "
+"Woocommerce."
+msgstr ""
+
+#: all-signs-options-free.php:581
+msgid "WooCommerce activated"
+msgstr ""
+
+#: all-signs-options-free.php:581
+msgid "Activate WooCommerce"
+msgstr ""
+
+#: all-signs-options-free.php:581
+msgid "Install WooCommerce"
+msgstr ""
+
+#: all-signs-options-free.php:607
+msgid "Activated"
+msgstr ""
+
+#: all-signs-options-free.php:620
+msgid "Activate"
+msgstr ""
+
+#: all-signs-options-free.php:640
+msgid "or"
+msgstr ""
+
+#: all-signs-options-free.php:641
+msgid "learn more"
+msgstr ""
+
+#: includes/Admin.php:27 includes/asowp-post-type.php:29
+#: includes/asowp-product-config.php:206
+msgid "All Signs Options"
+msgstr ""
+
+#: includes/Admin.php:30
+msgid "Home"
+msgstr ""
+
+#: includes/Admin.php:31
+msgid "Configurations"
+msgstr ""
+
+#: includes/Admin.php:32
+msgid "Global Settings"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:131
+msgid "Configuration created with success"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:160
+msgid "Not ASO Config Post"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:164
+#: includes/Api/Admin/Settings/Customizer-sign.php:162
+#: includes/Api/Admin/Settings/Customizer-sign.php:165
+#: includes/Api/Admin/Settings/Customizer-sign.php:194
+#: includes/Api/Admin/Settings/Customizer-sign.php:197
+#: includes/Api/Admin/Settings/Customizer-sign.php:227
+#: includes/Api/Admin/Settings/Customizer-sign.php:230
+#: includes/Api/Admin/Settings/Customizer-sign.php:259
+#: includes/Api/Admin/Settings/Customizer-sign.php:262
+#: includes/Api/Admin/Settings/Generals.php:116
+#: includes/Api/Admin/Settings/Generals.php:119
+#: includes/Api/Admin/Settings/Generals.php:148
+#: includes/Api/Admin/Settings/Generals.php:151
+#: includes/Api/Admin/Settings/Generals.php:182
+#: includes/Api/Admin/Settings/Generals.php:185
+#: includes/Api/Admin/Settings/Generals.php:213
+#: includes/Api/Admin/Settings/Generals.php:216
+#: includes/Api/Admin/Settings/Language-Image.php:133
+#: includes/Api/Admin/Settings/Language-Image.php:136
+#: includes/Api/Admin/Settings/Language-Image.php:166
+#: includes/Api/Admin/Settings/Language-Image.php:169
+#: includes/Api/Admin/Settings/Language-Image.php:199
+#: includes/Api/Admin/Settings/Language-Image.php:202
+#: includes/Api/Admin/Settings/Language-Image.php:232
+#: includes/Api/Admin/Settings/Language-Image.php:235
+#: includes/Api/Admin/Settings/Language-Image.php:264
+#: includes/Api/Admin/Settings/Language-Image.php:267
+msgid "Custom ID invalid"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:254
+msgid "The configuration has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:257
+msgid "Configuration update failed"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:275
+msgid "The configuration was well removed"
+msgstr ""
+
+#: includes/Api/Admin/Configs.php:277 includes/Api/Admin/Configs.php:281
+msgid "Deleting the configuration failed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:195
+msgid "Data updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:197
+msgid "No change observed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:200
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:214
+msgid "Config page not found"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:234
+msgid "None"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:262
+msgid "Page created successfully"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:264
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:268
+msgid "Page was not created"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:282
+msgid "No output options found"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:290
+msgid "The ouput settings has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:293
+msgid "The ouput settings update failed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:296
+msgid "No change observed in the ouput settings"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:325
+msgid "The Shape has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:328
+msgid "Shape update failed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:331
+msgid "No change observed in shape"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:335
+#: includes/Api/Admin/Materials/Simple.php:500
+msgid "Shape not found"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:363
+msgid "The Fixing Method has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:366
+msgid "FixingMethod update failed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:369
+msgid "No change observed in fixing Method"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:372
+msgid "FixingMethod not found"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:400
+msgid "The Border has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:403
+msgid "Border update failed"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:406
+msgid "No change observed in border"
+msgstr ""
+
+#: includes/Api/Admin/Globals-Settings/Globals-Settings.php:409
+#: includes/Api/Admin/Materials/Simple.php:639
+msgid "Border not found"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:100
+msgid "Font created with success"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:115
+msgid "No Fonts Found"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:129
+#: includes/Api/Admin/Manage-fonts.php:158
+#: includes/Api/Admin/Manage-fonts.php:181
+msgid "Font not found"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:149
+msgid "The font has been updated with success"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:152
+msgid "Font update failed"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:155
+msgid "No change observed in font"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:176
+msgid "The font was well removed"
+msgstr ""
+
+#: includes/Api/Admin/Manage-fonts.php:178
+msgid "Deleting the font failed"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:133 includes/Api/Admin/Materials.php:136
+#: includes/Api/Admin/Materials.php:294 includes/Api/Admin/Materials.php:322
+msgid "No Materials found"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:211
+msgid "Materiel component successfully added"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:213 includes/Api/Admin/Materials.php:216
+#: includes/Api/Admin/Materials.php:218 includes/Api/Admin/Materials.php:221
+msgid "Materiel component has not been added"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:224 includes/Api/Admin/Materials.php:265
+#: includes/Api/Admin/Materials/Simple.php:993
+#: includes/Api/Admin/Materials/Simple.php:1151
+msgid "No Configuration found"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:251
+msgid "Materiel component successfully edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:253 includes/Api/Admin/Materials.php:259
+#: includes/Api/Admin/Materials.php:262
+msgid "Materiel component has not been edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:256
+#: includes/Api/Admin/Materials/Simple.php:469
+#: includes/Api/Admin/Materials/Simple.php:539
+#: includes/Api/Admin/Materials/Simple.php:608
+#: includes/Api/Admin/Materials/Simple.php:677
+#: includes/Api/Admin/Materials/Simple.php:745
+#: includes/Api/Admin/Materials/Simple.php:814
+#: includes/Api/Admin/Materials/Simple.php:984
+#: includes/Api/Admin/Materials/Simple.php:1142
+msgid "No change was observed"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:288 includes/Api/Admin/Materials.php:291
+#: includes/Api/Admin/Materials.php:316 includes/Api/Admin/Materials.php:319
+msgid "No materials component found"
+msgstr ""
+
+#: includes/Api/Admin/Materials.php:314
+msgid "Component successfully deleted"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:464
+msgid "Materiel component shapes successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:466
+#: includes/Api/Admin/Materials/Simple.php:472
+#: includes/Api/Admin/Materials/Simple.php:504
+msgid "Materiel component shapes has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:476
+#: includes/Api/Admin/Materials/Simple.php:479
+#: includes/Api/Admin/Materials/Simple.php:507
+#: includes/Api/Admin/Materials/Simple.php:510
+#: includes/Api/Admin/Materials/Simple.php:546
+#: includes/Api/Admin/Materials/Simple.php:549
+#: includes/Api/Admin/Materials/Simple.php:576
+#: includes/Api/Admin/Materials/Simple.php:579
+#: includes/Api/Admin/Materials/Simple.php:615
+#: includes/Api/Admin/Materials/Simple.php:618
+#: includes/Api/Admin/Materials/Simple.php:646
+#: includes/Api/Admin/Materials/Simple.php:649
+#: includes/Api/Admin/Materials/Simple.php:684
+#: includes/Api/Admin/Materials/Simple.php:687
+#: includes/Api/Admin/Materials/Simple.php:714
+#: includes/Api/Admin/Materials/Simple.php:717
+#: includes/Api/Admin/Materials/Simple.php:752
+#: includes/Api/Admin/Materials/Simple.php:755
+#: includes/Api/Admin/Materials/Simple.php:782
+#: includes/Api/Admin/Materials/Simple.php:785
+#: includes/Api/Admin/Materials/Simple.php:821
+#: includes/Api/Admin/Materials/Simple.php:824
+#: includes/Api/Admin/Materials/Simple.php:852
+#: includes/Api/Admin/Materials/Simple.php:855
+#: includes/Api/Admin/Materials/Simple.php:921
+#: includes/Api/Admin/Materials/Simple.php:924
+#: includes/Api/Admin/Materials/Simple.php:950
+#: includes/Api/Admin/Materials/Simple.php:1104
+#: includes/Api/Admin/Materials/Simple.php:1107
+msgid "No config data found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:534
+msgid "Materiel component sizes successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:536
+#: includes/Api/Admin/Materials/Simple.php:542
+msgid "Materiel component sizes has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:569
+msgid "Sizes not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:573
+msgid "Materiel ID not Found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:603
+msgid "Materiel component borders successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:605
+#: includes/Api/Admin/Materials/Simple.php:611
+#: includes/Api/Admin/Materials/Simple.php:643
+#: includes/Api/Admin/Materials/Simple.php:680
+msgid "Materiel component borders has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:672
+msgid "Materiel component textImages successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:674
+msgid "Materiel component textImages has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:707
+msgid "Text not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:711
+msgid "Materiel component textImages has not been found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:740
+msgid "Materiel component colors successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:742
+#: includes/Api/Admin/Materials/Simple.php:748
+#: includes/Api/Admin/Materials/Simple.php:779
+msgid "Materiel component colors has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:775
+msgid "Color not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:809
+msgid "Materiel component fixingMethods successfully updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:811
+#: includes/Api/Admin/Materials/Simple.php:817
+msgid "Materiel component fixingMethods has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:845
+msgid "Fixing Methods not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:849
+msgid "Materiel component fixing Methods has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:883
+msgid "Material component Additional Option successfully added"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:885
+msgid "Material component Additional Option has not been added"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:888
+msgid "Additional Option array not found in meta data"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:891
+#: includes/Api/Admin/Materials/Simple.php:1072
+msgid "Material ID not found in meta data"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:894
+#: includes/Api/Admin/Materials/Simple.php:1075
+msgid "Invalid configuration ID"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:914
+msgid "Additional Option not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:918
+msgid "Materiel component Additional Option has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:944
+msgid "No Options Found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:947
+msgid "No Additional Option data found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:979
+msgid "Materiel component Additional Option successfully edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:981
+#: includes/Api/Admin/Materials/Simple.php:987
+#: includes/Api/Admin/Materials/Simple.php:990
+msgid "Materiel component Additional Option  has not been edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1014
+msgid "Component Additional Option successfully deleted"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1016
+msgid "Component Additional Option have not been deleted"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1019
+#: includes/Api/Admin/Materials/Simple.php:1022
+msgid "No materials component Additional Option found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1025
+msgid "No Materials Additional Option found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1064
+msgid "Material component Option successfully added"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1066
+msgid "Material component  Option has not been added"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1069
+msgid " Option array not found in meta data"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1097
+msgid " Option not found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1101
+msgid "Materiel component  Option has not been updated"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1137
+msgid "Materiel component  Option successfully edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1139
+#: includes/Api/Admin/Materials/Simple.php:1148
+msgid "Materiel component  Option  has not been edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1145
+msgid "Materiel component Option  has not been edited"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1174
+msgid "Component  Option successfully deleted"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1176
+msgid "Component  Option have not been deleted"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1179
+msgid "No materials component  Option found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1182
+msgid "No materials component Option found"
+msgstr ""
+
+#: includes/Api/Admin/Materials/Simple.php:1185
+msgid "No Materials Option found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:125
+#: includes/Api/Admin/Settings/Generals.php:108
+msgid "No Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:131
+msgid "No Customizer Sign Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:134
+#: includes/Api/Admin/Settings/Customizer-sign.php:137
+msgid "Customizer ID invalid"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:157
+msgid "customizer in customizer sign settings upadted successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:159
+msgid "Update customizer in customizer sign settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:186
+msgid "Sign part in customizer sign settings upadted successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:188
+msgid "Update Sign part in customizer sign settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:191
+msgid "No change observed in Sign part in customizer sign settings "
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:218
+msgid "Text in customizer sign settings upadted successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:220
+msgid "Update Text in customizer sign settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:223
+msgid "No change observed in Text in customizer sign settings"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:250
+msgid "image in Customizer sign settings upadted successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:252
+msgid "Update image in Customizer sign settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Customizer-sign.php:255
+msgid "No change observed in image in Customizer sign settings"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:113
+msgid "No generals Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:140
+msgid "Product options in generals settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:142
+msgid "Update product options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:145
+msgid "No change observed in product options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:173
+msgid "Mobile options in generals settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:175
+msgid "Update mobile options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:178
+msgid "No change observed in mobile options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:205
+msgid "Output options in generals settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:207
+msgid "Update output options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Generals.php:210
+msgid "No change observed in output options in generals settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:130
+msgid "No language Images Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:158
+msgid "Main options in language Images settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:160
+msgid "Update Main options in language Images settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:163
+msgid "No change observed in Main options in language Images settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:191
+msgid ""
+"Customizer Design options in language Images settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:193
+msgid "Update Customizer Design options in language Images settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:196
+msgid ""
+"No change observed in Customizer Design options in language Images settings"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:224
+msgid "Visualizer options in language Images settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:226
+msgid "update Visualizer options in language Images settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:229
+msgid "No change observed in Visualizer options in language Images"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:256
+msgid "Images options in language Images settings updated successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:258
+msgid "Update Images options in language Images settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Language-Image.php:261
+msgid "No change observed in Images options in language Images settings"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:74
+msgid "No Theme color Settings found"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:77
+#: includes/Api/Admin/Settings/Theme-color.php:102
+msgid " Theme color ID invalid"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:80
+#: includes/Api/Admin/Settings/Theme-color.php:105
+msgid "Theme color ID i nvalid"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:94
+msgid "Theme Colors update successfully settings added successfully"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:96
+msgid "Add Theme Colors update successfully settings failed"
+msgstr ""
+
+#: includes/Api/Admin/Settings/Theme-color.php:99
+msgid "No change observed in theme colors"
+msgstr ""
+
+#: includes/Functions.php:64
+msgid "Product successfully added to cart."
+msgstr ""
+
+#: includes/Functions.php:79
+msgid ""
+"A problem occured while adding the product to the cart. Please try again."
+msgstr ""
+
+#: includes/Functions.php:89
+msgid "Missing product ID"
+msgstr ""
+
+#: includes/asowp-design.php:271 includes/asowp-design.php:285
+msgid "file"
+msgstr ""
+
+#: includes/asowp-design.php:314
+msgid "Previews"
+msgstr ""
+
+#: includes/asowp-design.php:323 includes/asowp-design.php:335
+msgid "Download File"
+msgstr ""
+
+#: includes/asowp-design.php:415
+msgid "Download Order Zip file"
+msgstr ""
+
+#: includes/asowp-post-type.php:20 includes/asowp-post-type.php:21
+#: includes/asowp-post-type.php:30
+msgid "ASO Configurations"
+msgstr ""
+
+#: includes/asowp-post-type.php:22 includes/asowp-post-type.php:23
+#: includes/asowp-post-type.php:25
+msgid "New ASO configuration"
+msgstr ""
+
+#: includes/asowp-post-type.php:24
+msgid "Edit ASO configuration"
+msgstr ""
+
+#: includes/asowp-post-type.php:26
+msgid "View ASO configuration"
+msgstr ""
+
+#: includes/asowp-post-type.php:27
+msgid "No ASO configuration found"
+msgstr ""
+
+#: includes/asowp-post-type.php:28
+msgid "No ASO configuration in the trash"
+msgstr ""
+
+#: includes/asowp-post-type.php:91
+msgid "All Signs Options Warning"
+msgstr ""
+
+#: includes/asowp-post-type.php:94
+msgid ""
+"You are trying to access the personalization page without the personalized "
+"button of a product to be personalized. \n"
+"\t\t\t\t\t\tThis page should only be accessible using one of the "
+"customization buttons. \n"
+"\t\t\t\t\t\tIf you don't like this procedure, don't define this page as a "
+"personalization page and use the short code to display the configurator."
+msgstr ""
+
+#: includes/asowp-product-config.php:102 includes/asowp-product-config.php:180
+msgid "Attach this product to All Signs Options configuration"
+msgstr ""
+
+#: includes/asowp-product-config.php:220 includes/asowp-product-config.php:225
+msgid "No"
+msgstr ""
+
+#: includes/asowp-product-config.php:222
+msgid "Yes"
+msgstr ""
